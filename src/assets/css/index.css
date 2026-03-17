@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  background-color: #1e2939;
+}
+
+#hover:hover,
+#btn {
+  right: 0;
+}
